@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5a18b9ee5c6e2c944a29062f86417978
+timeCreated: 1493859134
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redAttackBuildingPrefab: {fileID: 121700, guid: e7b5542fc58161d40a07be2cdfbc5b72,
+      type: 2}
+  - redDefenseBuildingPrefab: {fileID: 172072, guid: 5c58d09e764e6ff449aab9ad5bd5c13c,
+      type: 2}
+  - redSupportBuildingPrefab: {fileID: 128836, guid: b71e778ded5e725489168f7c74e34a28,
+      type: 2}
+  - blueAttackBuildingPrefab: {fileID: 193788, guid: 333563374be2bfc4b922b723ef0b1f5c,
+      type: 2}
+  - blueDefenseBuildingPrefab: {fileID: 123050, guid: a0820b5c27faaea41957e0281a5b6b9a,
+      type: 2}
+  - blueSupportBuildingPrefab: {fileID: 120762, guid: ab0455c577c0bac4293df8c18491ac1d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
